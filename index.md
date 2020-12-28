@@ -1,5 +1,4 @@
-## The Yaniv rules for the Tønnessens
-
+## Tønnessens Yaniv rules
 
 
 This page presumes you know the gist of Yaniv, this is for friends and family
