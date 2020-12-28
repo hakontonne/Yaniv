@@ -8,7 +8,7 @@ The goal of the game is to have a sum of equal or less then 5 on your hand, spec
 
 
 
-| Card    | Value                           |
+| **Card**    | **Value**                           |
 | ------- | ------------------------------- |
 | A (ace) | 1                               |
 | 2 - 10  | 2 - 10                          |
