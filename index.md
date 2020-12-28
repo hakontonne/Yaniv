@@ -1,4 +1,4 @@
-## Welcome to Yaniv rules
+## The Yaniv rules for the Tønnessens
 
 
 
